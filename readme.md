@@ -1,5 +1,5 @@
 
-### Curl command for curl request-2 (Using Explicit (which means -X))
+### Curl command for curl request-2 (Using Explicit flag (which means -X))
 
 -curl https://jsonplaceholder.typicode.com/posts/5 (make a get request to /users endpoint and retrieve the 3rd user)
 
